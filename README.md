@@ -1,5 +1,5 @@
 📄 **Full project report (web):**  
-https://zsofia123.github.io/loan-default-prediction-ml/
+[https://zsofia123.github.io/loan-default-prediction-ml/](https://zsofia123.github.io/loan-default-prediction-ml/)
 
 
 
@@ -59,7 +59,7 @@ After removing data leakage, model performance changed materially. The best over
 This project is designed as a **portfolio piece** demonstrating credit risk thinking, leakage-free model validation, and business-driven evaluation.
 
 📄 **Full project report (web):**  
-https://zsofia123.github.io/loan-default-prediction-ml/
+[https://zsofia123.github.io/loan-default-prediction-ml/](https://zsofia123.github.io/loan-default-prediction-ml/)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/zsófia-kovács-434626183
