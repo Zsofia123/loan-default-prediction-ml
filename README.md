@@ -1,5 +1,5 @@
-📄 **Full project report (web):**  
-https://zsofia123.github.io/loan-default-prediction-ml/Predicting_Loan_Default_Using_ML_with_Regularization_Based_Model_Selection.html
+📄 **Full project report:**  
+[Predicting Loan Default – ML with Regularization & Model Selection](reports/Predicting_Loan_Default_Using_ML_with_Regularization_Based_Model_Selection.html)
 
 # Predicting Loan Default (Credit Risk) — Leak-Free ML Pipeline
 
