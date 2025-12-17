@@ -53,6 +53,9 @@ After removing data leakage, model performance changed materially. The best over
 ## Notes
 This project is designed as a **portfolio piece** demonstrating credit risk thinking, leakage-free model validation, and business-driven evaluation.
 
+📄 **Full project report:**  
+[Predicting Loan Default – ML with Regularization & Model Selection](reports/Predicting_Loan_Default_Using_ML_with_Regularization_Based_Model_Selection.html)
+
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/zsófia-kovács-434626183
 
