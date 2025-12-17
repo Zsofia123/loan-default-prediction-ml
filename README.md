@@ -44,7 +44,8 @@ After removing data leakage, model performance changed materially. The best over
 | Logistic Regression | 0.83 | 0.64 | 0.65 | 0.84 |
 
 ## Repository structure
-
+- `docs/` – Interactive HTML report (GitHub Pages)
+- `README.md` – Project overview and results
 
 
 ## How to run
