@@ -1,3 +1,6 @@
+📄 **Full project report (web):**  
+https://zsofia123.github.io/loan-default-prediction-ml/Predicting_Loan_Default_Using_ML_with_Regularization_Based_Model_Selection.html
+
 # Predicting Loan Default (Credit Risk) — Leak-Free ML Pipeline
 
 End-to-end credit risk classification project: predicting whether a loan defaults (Status: 0 = non-default, 1 = default), with a strong focus on **model validation**, **data leakage prevention**, and **cost-sensitive evaluation** (minimizing false negatives).
